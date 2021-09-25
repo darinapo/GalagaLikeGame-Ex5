@@ -1,0 +1,5 @@
+﻿  ex5.cpp
+c:\users\darin\documents\visual studio 2015\projects\ex5\ex5\ex5.cpp(236): warning C4244: 'argument': conversion from 'std::size_t' to 'float', possible loss of data
+c:\users\darin\documents\visual studio 2015\projects\ex5\ex5\ex5.cpp(267): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Ex5.vcxproj -> C:\Users\darin\Documents\Visual Studio 2015\Projects\Ex5\Debug\Ex5.exe
+  Ex5.vcxproj -> C:\Users\darin\Documents\Visual Studio 2015\Projects\Ex5\Debug\Ex5.pdb (Full PDB)

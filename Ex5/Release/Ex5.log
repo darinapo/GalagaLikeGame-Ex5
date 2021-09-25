@@ -1,0 +1,5 @@
+﻿     Creating library C:\Users\darin\Documents\Visual Studio 2015\Projects\Ex5\Release\Ex5.lib and object C:\Users\darin\Documents\Visual Studio 2015\Projects\Ex5\Release\Ex5.exp
+  Generating code
+c:\users\darin\documents\visual studio 2015\projects\ex5\ex5\ex5.cpp(235): error C4703: potentially uninitialized local pointer variable 'mesg' used
+  All 724 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed

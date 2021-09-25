@@ -1,0 +1,43 @@
+
+Array arr;
+
+arr[3] = Fraction(1,2);
+
+
+arr [,,,Fraction(3,4)]
+
+Fraction(3,4) = Fraction(1,2);
+
+
+A - virtual foo
+B - foo
+C - foo
+
+A* a = new C();
+a->foo();
+
+VFT - virtual function table
+
+A
+--
+B
+--
+C
+
+
+const D& D::operator=(const D& d)
+{
+	this->cPtr = new C(d.cPtr);
+	return *this;
+}
+
+
+class A
+ virtual foo() ...
+
+class B
+ virtual foo()
+{
+	A::foo();
+	...
+}
